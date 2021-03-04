@@ -1,2 +1,4 @@
 # Website
-Feel free to make your own website based off of this :) 
+https://extraviwastaken.github.io/ :) 
+
+Feal free to use the code.
