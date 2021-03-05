@@ -4,4 +4,4 @@ https://www.extravi.dev/
 
 https://extraviwastaken.github.io/ 
 
-Feal free to use the code. :) 
+Feel free to use the code. :) 
