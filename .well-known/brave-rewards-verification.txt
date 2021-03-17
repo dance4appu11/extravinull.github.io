@@ -1,1 +1,4 @@
+This is a Brave Rewards publisher verification file.
 
+Domain: extravi.dev
+Token: 3977b12502a575a231718a661728992defd18f70576551bebca37a801235a1bb
