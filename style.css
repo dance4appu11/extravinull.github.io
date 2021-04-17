@@ -102,6 +102,11 @@ header h2 {
   }
 }
 
+.github {
+  margin: 10px;
+  padding: 10px;
+}
+
 section {
   background: #121212;
   color: #dae5ec;
