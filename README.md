@@ -1,6 +1,6 @@
 # Website
 
-https://extraviwastaken.github.io/ 
+https://extraviwastaken.github.io/ OR https://www.extravi.dev/
 
 Feel free to use the code. :) 
 
